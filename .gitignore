@@ -1,0 +1,16 @@
+*.sw*
+*.ast
+*.pyc
+
+.coverage
+MANIFEST
+
+__pycache__
+.ipynb_checkpoints
+.idea
+.mypy_cache
+.tox
+venv
+tmp
+data
+graph_plots
